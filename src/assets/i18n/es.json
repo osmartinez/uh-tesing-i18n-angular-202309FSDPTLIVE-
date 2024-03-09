@@ -1,0 +1,10 @@
+{
+    "HOME":{
+        "NAV":{
+            "MENU_BOOKS": "Libros",
+            "MENU_FILMS": "Películas"
+        },
+        "TITLE": "Bienvenido",
+        "SUBTITLE": "Esta es mi web"
+    }
+}
